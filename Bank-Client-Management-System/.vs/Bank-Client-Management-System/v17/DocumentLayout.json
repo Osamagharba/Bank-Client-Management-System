@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{B0FDB3F6-4686-4E12-88AB-AD1E3B158B17}|Bank-Client-Management-System\\Bank-Client-Management-System.vcxproj|D:\\Learn basics of programming\\Projects\\Bank Management\\Bank-Client-Management-System\\Bank-Client-Management-System\\Bank-Client-Management-System.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B0FDB3F6-4686-4E12-88AB-AD1E3B158B17}|Bank-Client-Management-System\\Bank-Client-Management-System.vcxproj|solutionrelative:Bank-Client-Management-System\\Bank-Client-Management-System.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0FDB3F6-4686-4E12-88AB-AD1E3B158B17}|Bank-Client-Management-System\\Bank-Client-Management-System.vcxproj|D:\\Learn basics of programming\\Projects\\Bank Management\\Bank-Client-Management-System\\Bank-Client-Management-System\\MyLibrary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B0FDB3F6-4686-4E12-88AB-AD1E3B158B17}|Bank-Client-Management-System\\Bank-Client-Management-System.vcxproj|solutionrelative:Bank-Client-Management-System\\MyLibrary.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -25,6 +29,22 @@
               "Name": "ST:0:0:{2d4d7b63-2712-49a6-a309-3ff689de5696}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyLibrary.h",
+              "DocumentMoniker": "D:\\Learn basics of programming\\Projects\\Bank Management\\Bank-Client-Management-System\\Bank-Client-Management-System\\MyLibrary.h",
+              "RelativeDocumentMoniker": "Bank-Client-Management-System\\MyLibrary.h",
+              "ToolTip": "D:\\Learn basics of programming\\Projects\\Bank Management\\Bank-Client-Management-System\\Bank-Client-Management-System\\MyLibrary.h",
+              "RelativeToolTip": "Bank-Client-Management-System\\MyLibrary.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-10T16:41:55.406Z"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Bank-Client-Management-System.cpp",
@@ -32,18 +52,10 @@
               "RelativeDocumentMoniker": "Bank-Client-Management-System\\Bank-Client-Management-System.cpp",
               "ToolTip": "D:\\Learn basics of programming\\Projects\\Bank Management\\Bank-Client-Management-System\\Bank-Client-Management-System\\Bank-Client-Management-System.cpp",
               "RelativeToolTip": "Bank-Client-Management-System\\Bank-Client-Management-System.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANYBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-10T15:44:05.291Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         },
