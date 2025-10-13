@@ -1,0 +1,2 @@
+﻿cl : command line  warning D9025: overriding '/Fox64\Debug\' with '/Fox64\Debug" /Fpx64\Debug\ConsoleApplication5.pch /diagnostics:column Bank-Client-Management-System.cpp'
+cl : command line  error D8003: missing source filename
