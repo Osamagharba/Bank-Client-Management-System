@@ -22,6 +22,7 @@ namespace input
 	{
 		string str = "";
 		cout << Message;
+		cin.ignore(1, '\n');
 		getline(cin, str);
 		return str;
 	}
