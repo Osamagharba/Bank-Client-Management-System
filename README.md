@@ -50,7 +50,7 @@ struct sClient {
     double AccountBalance;
     bool MarkForDelete = false;
 };
-
+```
 ---
 
 ## 🧮 Example Run
