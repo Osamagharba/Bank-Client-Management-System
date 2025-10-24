@@ -50,3 +50,36 @@ struct sClient {
     double AccountBalance;
     bool MarkForDelete = false;
 };
+
+---
+
+## 🧮 Example Run
+===============================
+       Bank Main Menu
+===============================
+[1] Show Client List
+[2] Add New Client
+[3] Delete Client
+[4] Update Client Info
+[5] Find Client
+[6] Transactions
+[7] Exit
+===============================
+Please choose an option: 1
+
+--------------------------------------------
+| Acc.No | PinCode | Name      | Balance  |
+--------------------------------------------
+| A101   | 1234    | John Doe  | 2500.50  |
+| A102   | 5678    | Alice Lee | 4000.00  |
+--------------------------------------------
+
+
+---
+
+## 🧠 Concepts Demonstrated
+* File Handling (read/write/update Clients.txt)
+* Structured Data Management using structs
+* Modular Programming via namespaces
+* Input Validation
+* Formatted Output using setw() and helper functions
