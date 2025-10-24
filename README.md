@@ -85,3 +85,17 @@ Please choose an option: 1
 * Modular Programming via namespaces
 * Input Validation
 * Formatted Output using setw() and helper functions
+
+---
+
+## 🧰 Future Improvements
+* Encrypt PIN codes for better security
+* Add user login system (admin/client roles)
+
+---
+
+## 🧑‍💻 Author
+### osama gharba
+[Mail](osamagharba608@gmail.com)
+[Github](https://github.com/Osamagharba)
+[Linkedin](https://www.linkedin.com/in/osama-gharba/)
