@@ -96,5 +96,5 @@ Please choose an option: 1
 
 ## 🧑‍💻 Author
 ### osama gharba
-*[Github](https://github.com/Osamagharba)
-*[Linkedin](https://www.linkedin.com/in/osama-gharba/)
+* [Github](https://github.com/Osamagharba)
+* [Linkedin](https://www.linkedin.com/in/osama-gharba/)
